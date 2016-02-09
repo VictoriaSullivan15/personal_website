@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image: url(img/isenberg.jpg);
+  background-image: url("img/brightisenberg.jpg");
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -19,7 +19,7 @@
 
 .jumbotron .container {
   position: relative;
-  top:100px;
+  top:-25px;
 }
 
 .jumbotron h1 {
@@ -31,7 +31,7 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #fff;
+  color: #363030;
 }
 
 .learn-more {
@@ -45,7 +45,7 @@
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #5a5a5a;
 }
 
 .neighborhood-guides {
